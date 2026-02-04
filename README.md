@@ -1,4 +1,6 @@
-<img width="1249" height="755" alt="Screenshot 2026-01-28 030209" src="https://github.com/user-attachments/assets/6384aa10-0673-47ed-85f4-042d706afdda" />
+<img width="1828" height="775" alt="Screenshot 2026-02-04 040406" src="https://github.com/user-attachments/assets/0140e4ed-fda8-461c-81a7-fa638dc55217" />
+
+
 
 
 # Sales-Food-Dashboard
